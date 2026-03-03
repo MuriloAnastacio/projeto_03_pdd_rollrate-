@@ -1,4 +1,4 @@
-# 📊 Projeto 03 – Modelagem de PDD com Roll Rate
+# Modelagem de PDD com Roll Rate
 
 ## Objetivo
 Desenvolver modelo simplificado de provisão de perdas utilizando metodologia de Roll Rate e cálculo de PD implícita por bucket de atraso.
